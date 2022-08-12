@@ -1,5 +1,5 @@
 # MIT-Data-Science
-The folder contains project I did during MIT Data Science Program.
+The folder contains my projects during MIT Data Science Program.
 
 1. The capstone project is about building classification Machine Learning models to predict risky home loan clients and discover important features
 2. The Predicting Potential Customers project build decision tree and random forest models to finding factors driving the lead conversion process
